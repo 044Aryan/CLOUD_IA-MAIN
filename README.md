@@ -1,6 +1,7 @@
-# Three-Tier Application with Docker
+## 21BCP222
+# Buidling a frontend , backend and database alongside integrating all with Docker
 
-This repository contains a three-tier application built using Docker, utilizing a multi-container setup. The application consists of three layers: presentation layer, application layer, and data layer.
+This repository contains a application built using Docker, utilizing a multi-container setup. The application consists of three layers: presentation layer, application layer, and data layer.
 
 ## Architecture Overview
 
